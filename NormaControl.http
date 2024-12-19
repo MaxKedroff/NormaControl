@@ -1,0 +1,6 @@
+@NormaControl_HostAddress = http://localhost:5234
+
+GET {{NormaControl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
